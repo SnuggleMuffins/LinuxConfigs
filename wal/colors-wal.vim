@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/xyrik/Downloads/742582.jpg"
+let background = "#0E1012"
+let foreground = "#aabfc4"
+let cursor     = "#aabfc4"
+
+" Colors
+let color0  = "#0E1012"
+let color1  = "#344748"
+let color2  = "#1E5069"
+let color3  = "#545C57"
+let color4  = "#AF5E24"
+let color5  = "#DAAF3F"
+let color6  = "#316B93"
+let color7  = "#aabfc4"
+let color8  = "#768589"
+let color9  = "#344748"
+let color10 = "#1E5069"
+let color11 = "#545C57"
+let color12 = "#AF5E24"
+let color13 = "#DAAF3F"
+let color14 = "#316B93"
+let color15 = "#aabfc4"

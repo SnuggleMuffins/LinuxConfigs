@@ -1,0 +1,21 @@
+set $wallpaper /home/xyrik/Downloads/742582.jpg
+
+set $background #0E1012
+set $foreground #aabfc4
+
+set $color0 #0E1012
+set $color1 #344748
+set $color2 #1E5069
+set $color3 #545C57
+set $color4 #AF5E24
+set $color5 #DAAF3F
+set $color6 #316B93
+set $color7 #aabfc4
+set $color8 #768589
+set $color9 #344748
+set $color10 #1E5069
+set $color11 #545C57
+set $color12 #AF5E24
+set $color13 #DAAF3F
+set $color14 #316B93
+set $color15 #aabfc4
