@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/xyrik/Downloads/hs-2015-12-a-2560x1024_wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1112",
+        "foreground": "#cac9e4",
+        "cursor": "#cac9e4"
+    },
+    "colors": {
+        "color0": "#0D1112",
+        "color1": "#CE916F",
+        "color2": "#58679E",
+        "color3": "#937398",
+        "color4": "#6B8FCE",
+        "color5": "#AA94A3",
+        "color6": "#CFB3B3",
+        "color7": "#cac9e4",
+        "color8": "#8d8c9f",
+        "color9": "#CE916F",
+        "color10": "#58679E",
+        "color11": "#937398",
+        "color12": "#6B8FCE",
+        "color13": "#AA94A3",
+        "color14": "#CFB3B3",
+        "color15": "#cac9e4"
+    }
+}

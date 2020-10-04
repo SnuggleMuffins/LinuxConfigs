@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/xyrik/Downloads/919248.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0819",
+        "foreground": "#91c6e7",
+        "cursor": "#91c6e7"
+    },
+    "colors": {
+        "color0": "#0d0819",
+        "color1": "#C6906F",
+        "color2": "#031190",
+        "color3": "#0627A9",
+        "color4": "#2C49B0",
+        "color5": "#035DD9",
+        "color6": "#BA6AA3",
+        "color7": "#91c6e7",
+        "color8": "#658aa1",
+        "color9": "#C6906F",
+        "color10": "#031190",
+        "color11": "#0627A9",
+        "color12": "#2C49B0",
+        "color13": "#035DD9",
+        "color14": "#BA6AA3",
+        "color15": "#91c6e7"
+    }
+}
